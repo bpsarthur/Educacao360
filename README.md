@@ -7,6 +7,6 @@ já vou publicar essa versão pois estou muito orgulhoso do meu trabalho
 e queria compartilhar com todos vocês.
 
 # Versão Atual: v2.5
-# Linguagem: Python versão 3.9.7
+# Linguagem: Python versão 3.12
 
 Espero que gostem! :)
