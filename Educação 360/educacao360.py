@@ -1,7 +1,7 @@
 # Autor: Arthur Berti Petersen Scholze
 # Data de Criação: 14/02/2024
-# Versão Atual: v2.1
-# Linguagem: Python versão 3.9.7
+# Versão Atual: v2.5
+# Linguagem: Python versão 3.12
 # 
 # Eu passei muito tempo desenvolvendo esse humilde código que por sinal 
 # ainda não está acabado pois pretendo colocar muitas funções a mais mas 
