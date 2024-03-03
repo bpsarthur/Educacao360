@@ -1,0 +1,379 @@
+{
+    "alunos": [
+        {
+            "rm": "1",
+            "nome": "arthur",
+            "nota": 10.0,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "2",
+            "nome": "davas",
+            "nota": 6.0,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "3",
+            "nome": "marina",
+            "nota": 8.0,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "4",
+            "nome": "jose",
+            "nota": 10.0,
+            "disciplinas": [
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "5",
+            "nome": "isadora",
+            "nota": 9.0,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "6",
+            "nome": "lucas",
+            "nota": 7.5,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "7",
+            "nome": "ana",
+            "nota": 8.8,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "8",
+            "nome": "pedro",
+            "nota": 6.3,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "9",
+            "nome": "clara",
+            "nota": 7.2,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "10",
+            "nome": "mateus",
+            "nota": 8.5,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "11",
+            "nome": "lara",
+            "nota": 9.7,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "12",
+            "nome": "vinicius",
+            "nota": 7.9,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "13",
+            "nome": "rafaela",
+            "nota": 6.8,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "14",
+            "nome": "gabriel",
+            "nota": 8.3,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "15",
+            "nome": "leticia",
+            "nota": 7.1,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "16",
+            "nome": "felipe",
+            "nota": 1.0,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "17",
+            "nome": "julia",
+            "nota": 6.7,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "18",
+            "nome": "vitor",
+            "nota": 8.2,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "19",
+            "nome": "thais",
+            "nota": 7.4,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "20",
+            "nome": "henrique",
+            "nota": 8.9,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "21",
+            "nome": "natalia",
+            "nota": 9.3,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "22",
+            "nome": "bruno",
+            "nota": 7.6,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "23",
+            "nome": "jessica",
+            "nota": 6.6,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        },
+        {
+            "rm": "24",
+            "nome": "andre",
+            "nota": 8.1,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "2"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "2"
+                }
+            ]
+        },
+        {
+            "rm": "25",
+            "nome": "larissa",
+            "nota": 7.3,
+            "disciplinas": [
+                {
+                    "nome": "matematica",
+                    "semestre": "1"
+                },
+                {
+                    "nome": "portugues",
+                    "semestre": "1"
+                }
+            ]
+        }
+    ]
+}
