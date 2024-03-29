@@ -3,8 +3,8 @@ ___________________________________________________________________________
 # Data de Criação: 14/02/2024
 ___________________________________________________________________________
 ## Requiriments:
-### colorama
-### json
+### -colorama
+### -json
 ___________________________________________________________________________
 ### Eu passei muito tempo desenvolvendo esse humilde código que por sinal 
 ### ainda não está acabado pois pretendo colocar muitas funções a mais mas 
