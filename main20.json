@@ -1,3 +1,10 @@
 {
-    "alunos": []
+    "alunos": [
+        {
+            "rm": "1",
+            "nome": "arthur",
+            "nota": 9.0,
+            "disciplinas": []
+        }
+    ]
 }
